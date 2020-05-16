@@ -6,4 +6,4 @@ Nowadays, people can recommend a restaurant to others simply by writing a review
 ## Project Overview
 Therefore, we performed text analytics on yelp dataset to derive business insights from customers’ restaurant reviews. We provide restaurant owners/ managers with a dashboard summary to inform them of the improvement areas. We hope these insights could help restaurants better serve their customers. 
 
-
+![](photos/business_flow.jpeg)
