@@ -8,6 +8,11 @@ We performed text analytics on yelp dataset to derive business insights from cus
 
 ![](Photos/business_flow.png)
 
+## Technical Architecture
+The data was downloaded from [Yelp Open Dataset](https://www.yelp.com/dataset) in JSON format. The dataset contains 192,609 businesss and 6,685,900 reviews. Due to the large scale of the dataset, we performed our analysis using Amazon Web Services(AWS) and Pyspark. To be specific, we used Amazon S3 for data storage, Amazon EC2 and EMR for cloud computing and transformation. We also used Pyspark on Databricks for sentiment analysis and predictive modeling. 
+
+![](Photos/technical_architecture.png)
+
 ## Project Walkthrough
 The analysis consists of 3 parts: 
 
