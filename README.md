@@ -55,3 +55,6 @@ Here is a screenshot of the dashboard:
 We also published our dashboard in Tableau Public, which can be accessed [here](https://public.tableau.com/profile/xiangke.chen#!/vizhome/YelpReviewAnalysis_15758570841320/final). 
 
 Team: [Boyang Wei](https://www.linkedin.com/in/boyang-wei/), [Yili Yu](https://www.linkedin.com/in/yili-yu-173b62179/), [Elizabeth Zhu](https://www.linkedin.com/in/elizabethyizhu/), [Shaco Chen](https://www.linkedin.com/in/xiangke-chen/), [Yusha Wang](https://www.linkedin.com/in/yusha-wang-analytics/), [Lin Xu](https://www.linkedin.com/in/lin-xu-8182ab15a/). 
+
+
+
